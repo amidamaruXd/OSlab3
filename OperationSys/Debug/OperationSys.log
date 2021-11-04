@@ -1,0 +1,13 @@
+﻿  OperationSys.cpp
+D:\Badrudin\Desktop\Английский Руслан\Project\OperationSys\OperationSys\OperationSys.cpp(10,18): warning C4129: M: неизвестная escape-последовательность
+D:\Badrudin\Desktop\Английский Руслан\Project\OperationSys\OperationSys\OperationSys.cpp(148,10): warning C4101: hWnd: неиспользованная локальная переменная
+D:\Badrudin\Desktop\Английский Руслан\Project\OperationSys\OperationSys\OperationSys.cpp(143,9): warning C4101: hdc: неиспользованная локальная переменная
+D:\Badrudin\Desktop\Английский Руслан\Project\OperationSys\OperationSys\OperationSys.cpp(145,10): warning C4101: hDlg: неиспользованная локальная переменная
+D:\Badrudin\Desktop\Английский Руслан\Project\OperationSys\OperationSys\OperationSys.cpp(147,10): warning C4101: bError: неиспользованная локальная переменная
+D:\Badrudin\Desktop\Английский Руслан\Project\OperationSys\OperationSys\OperationSys.cpp(141,12): warning C4101: hBmpMappingFile: неиспользованная локальная переменная
+D:\Badrudin\Desktop\Английский Руслан\Project\OperationSys\OperationSys\OperationSys.cpp(144,9): warning C4101: hMemDC: неиспользованная локальная переменная
+D:\Badrudin\Desktop\Английский Руслан\Project\OperationSys\OperationSys\OperationSys.cpp(142,12): warning C4101: hBmpMapFileAddr: неиспользованная локальная переменная
+D:\Badrudin\Desktop\Английский Руслан\Project\OperationSys\OperationSys\OperationSys.cpp(140,12): warning C4101: hPicture: неиспользованная локальная переменная
+D:\Badrudin\Desktop\Английский Руслан\Project\OperationSys\OperationSys\OperationSys.cpp(146,10): warning C4101: rWindow: неиспользованная локальная переменная
+D:\Badrudin\Desktop\Английский Руслан\Project\OperationSys\OperationSys\OperationSys.cpp(149,9): warning C4101: IDC_BMPFRAME: неиспользованная локальная переменная
+  OperationSys.vcxproj -> D:\Badrudin\Desktop\Английский Руслан\Project\OperationSys\Debug\OperationSys.exe
