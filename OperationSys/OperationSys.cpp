@@ -10,6 +10,8 @@
 TCHAR szName[] = TEXT("Global\MyFileMappingObject");
 TCHAR szMsg[] = TEXT("You recieve memory mapped file text!");
 
+//File edited
+
 //HWND GetConsoleHwnd()
 //{
 //    HWND hwnd;
